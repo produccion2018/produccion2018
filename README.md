@@ -1,15 +1,12 @@
 <h1 align="center"><b>Hi , I'm Mauro Pinto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>👋
 Desarrollo sitios web y escribo artículos sobre programación.
 
-Sobre Mí
-Creativo, crítico y ético. Poseo una sólida formación teórica y conceptual para el análisis comunicacional tecnológico y social.
-
-Por lo cual puedo comunicar con claridad todo tipo de mensajes para diversas audiencias. Además, tengo herramientas para intervenir de manera crítica y profesional en distintos ámbitos del campo de la comunicación.
-
-- 🔭 I’m currently studying:
-	- Mobile Application Development 
-	- Web Application Development 
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
+⚡Dato curioso: Creo en la teoría del caos : incluso en entornos impredecibles con rarezas e irregularidades aparentemente aleatorias, existe un patrón predecible y sensato que no se ve inicialmente.
+🔭 Actualmente estoy estudiando:
+programación full stack
+💡 Me interesa todo lo relacionado con los datos: Big Data, Cloud, Machine Learning y Data Science.
+💬 Háblame sobre Espacio, Filosofía, Ciencia, cualquier cosa que te interese.
+Mis habilidades incluyen
 
 
 ## My Skills Include
@@ -19,7 +16,8 @@ Por lo cual puedo comunicar con claridad todo tipo de mensajes para diversas aud
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src= https://img.shields.io/pypi/pyversions/:packageName>
+  <img src= [https://img.shields.io/pypi/pyversions/:packageName>
+
 
  
 </span>
