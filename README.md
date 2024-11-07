@@ -9,7 +9,7 @@ programación full stack
 Mis habilidades incluyen
 
 
-## My Skills Include
+ My Skills Include
 
 <h4> Languages </h4>
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
@@ -80,5 +80,5 @@ Mis habilidades incluyen
 </p>
 ------
 
-
-Last Edited on: 28/01/2023
+Creado por Mauro Alexander Pinto
+Last Edited on: 28/01/2024
