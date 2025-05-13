@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Mauro Pinto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>👋
+`<h1 align="center"><b>Hi , I'm Mauro Pinto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>👋
 Desarrollo sitios web y escribo artículos sobre programación.
 
 ⚡Dato curioso: Creo en la teoría del caos : incluso en entornos impredecibles con rarezas e irregularidades aparentemente aleatorias, existe un patrón predecible y sensato que no se ve inicialmente.
@@ -6,7 +6,7 @@ Desarrollo sitios web y escribo artículos sobre programación.
 programación full stack
 💡 Me interesa todo lo relacionado con los datos: Big Data, Cloud, Machine Learning y Data Science.
 💬 Háblame sobre Espacio, Filosofía, Ciencia, cualquier cosa que te interese.
-Mis habilidades incluyen
+Mis habilidades incluyen`
 
 
  My Skills Include
