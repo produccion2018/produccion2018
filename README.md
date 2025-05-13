@@ -55,13 +55,25 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Mauro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauropinto&show_icons=true&theme=radical&locale=es)
+![Mauro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauropinto&show_icons=true&theme=tokyonight&locale=es&hide_title=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauropinto&layout=compact&theme=radical&locale=es)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=mauropinto&layout=compact&theme=tokyonight&locale=es&langs_count=6&hide=css,html)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mauropinto&theme=radical&locale=es)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mauropinto&theme=tokyonight&locale=es)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mauropinto&theme=tokyonight&no-frame=true&margin-w=10)
 
 
+
+<h2>📈 Estadísticas de GitHub – Mauro Alexander Pinto</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mauropinto&show_icons=true&theme=tokyonight&locale=es&hide_title=false" alt="Estadísticas de GitHub de Mauro Pinto" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauropinto&layout=compact&theme=tokyonight&locale=es&langs_count=6&hide=css,html" alt="Lenguajes más usados por Mauro" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mauropinto&theme=tokyonight&locale=es" alt="Racha de contribuciones de Mauro Pinto" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=mauropinto&theme=tokyonight&no-frame=true&margin-w=10" alt="Trofeos de GitHub de Mauro" />
 
 
 ## ✨ Sobre mí
