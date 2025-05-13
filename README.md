@@ -5,11 +5,11 @@
 
 ## 🌐 Conectá conmigo
 
-- 🌐 Sitio web: [www.armotusitio.com](https://www.armotusitio.com)
+     https://www.facebook.com/
 - 📧 Email: mauroalexanderpinto@gmail.com
 - 🧠 GitHub: [(https://github.com/produccion2018))
 - 🎥 YouTube (Canal ADA TV): [youtube.com/@adatv](https://www.youtube.com/@adatv)
-- 💬 Discord: [Unite a la comunidad](https://discord.gg/tu-enlace-aqui)
+
 
 ---
 
@@ -53,16 +53,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drako01&show_icons=true&theme=tokyonight" alt="GitHub Stats de Mauro Pinto">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drako01&layout=compact&theme=tokyonight" alt="Lenguajes más usados por Mauro">
-</p>
-
+📊 GitHub Stats – Mauro Pinto
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Drako01&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de Mauro Pinto"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drako01&layout=compact&theme=tokyonight" alt="Lenguajes más utilizados por Mauro Pinto en GitHub"> </p>
 ---
 
 ## ✨ Sobre mí
