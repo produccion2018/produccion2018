@@ -53,8 +53,15 @@
 
 ---
 
-📊 GitHub Stats – Mauro Alexander Pinto
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Drako01&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de Mauro Alexander Pinto"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drako01&layout=compact&theme=tokyonight" alt="Lenguajes más utilizados por Mauro Alexander Pinto en GitHub"> </p
+## 📊 GitHub Stats – Mauro Alexander Pinto
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drako01&show_icons=true&theme=tokyonight" alt="GitHub Stats de Mauro Alexander Pinto">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drako01&layout=compact&theme=tokyonight" alt="Lenguajes más usados por Mauro Alexander Pinto en GitHub">
+</p>
 
 ## ✨ Sobre mí
 
