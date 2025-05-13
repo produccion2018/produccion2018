@@ -13,22 +13,16 @@
 
 ---
 
-## 🛠️ Tecnologías y herramientas que uso
+## 📈 Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Premiere Pro" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
-</p>
+![Mauro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauropinto&show_icons=true&theme=tokyonight&locale=es&hide_title=false)
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=mauropinto&layout=compact&theme=tokyonight&locale=es&langs_count=6&hide=css,html)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mauropinto&theme=tokyonight&locale=es)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mauropinto&theme=tokyonight&no-frame=true&margin-w=10)
+
 
 ---
 
