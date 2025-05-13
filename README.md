@@ -3,16 +3,17 @@
 
 ---
 
-## 🌐 Conectá conmigo:
+## 🌐 Conectá conmigo
 
-- 🌎 Sitio Web: [www.armotusitio.com](https://www.armotusitio.com)
-- 📧 Correo: mauroalexanderpinto@gmail.com
+- 🌐 Sitio web: [www.armotusitio.com](https://www.armotusitio.com)
+- 📧 Email: mauroalexanderpinto@gmail.com
+- 🧠 GitHub: [(https://github.com/produccion2018))
+- 🎥 YouTube (Canal ADA TV): [youtube.com/@adatv](https://www.youtube.com/@adatv)
 - 💬 Discord: [Unite a la comunidad](https://discord.gg/tu-enlace-aqui)
-- 🧠 GitHub: [github.com/Drako01](https://github.com/Drako01)
 
 ---
 
-## 🛠️ Lenguajes y herramientas que uso:
+## 🛠️ Tecnologías y herramientas que uso
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
@@ -31,19 +32,24 @@
 
 ---
 
-## 🎬 Proyectos creativos y desarrollo web
+## 📂 Proyectos destacados
 
-- 🌐 **Portfolio personal** – Web responsive con proyectos destacados.  
-  [🔗 Ver repositorio](https://github.com/Drako01/portfolio)
+- 🌐 **Portfolio Personal**  
+  Sitio web responsive con diseño moderno y secciones de presentación, habilidades y contacto.  
+  🔗 [Ver repositorio](https://github.com/Drako01/portfolio)
 
-- 🧠 **API de Películas** – Interfaz para explorar contenido mediante API.  
-  [🔗 Ver repositorio](https://github.com/Drako01/api-peliculas)
+- 🎬 **Sketch en Cartagena**  
+  Producción y actuación humorística grabada en la ciudad amurallada. Dirección creativa y audiovisual propia.
 
-- 🎙️ **Canal YouTube: ADA TV** – Programas culturales, sketches y música original.  
-  [🔗 YouTube - ADA TV](https://www.youtube.com/@adatv)
+- 🎧 **Intro animada para ADA TV**  
+  Dirección de arte, guion, actuación y música original con inspiración anime, dedicada como homenaje.
 
-- 🎭 **Sketch en Cartagena** – Producción y actuación en video humorístico con locación histórica.  
-- 🎧 **Intro Animada** – Música original + dirección audiovisual para opening de canal.
+- 📡 **Canal de YouTube: ADA TV**  
+  Espacio de contenido propio con entrevistas, cultura, sketches y mensajes positivos.  
+  🔗 [Ver canal](https://www.youtube.com/@adatv)
+
+- 📽️ **Proyectos en edición de video y diseño gráfico**  
+  Uso de Adobe Premiere, Photoshop y Figma para campañas visuales y contenido para redes.
 
 ---
 
@@ -59,25 +65,16 @@
 
 ---
 
-## 🔝 Repositorios Destacados
-
-| Proyecto | Lenguaje | Descripción |
-|----------|----------|-------------|
-| [Portfolio](https://github.com/Drako01/portfolio) | HTML, CSS, JS | Sitio web personal con diseño responsive. |
-| [Pybot](https://github.com/Drako01/pybot) | JavaScript | Bot para Discord. |
-| [API Pagos](https://github.com/Drako01/api-rest-pagos) | JavaScript | Gestión de pagos simulada. |
-| [Plataforma Cursos](https://github.com/Drako01/jugando_con_typescript) | TypeScript | Asignación de cursos y roles. |
-
----
-
 ## ✨ Sobre mí
 
-Soy **Mauro Pinto**, colomboargentino, comunicador audiovisual y **desarrollador web frontend**. Combino mis conocimientos técnicos y mi mirada artística para crear sitios atractivos, funcionales y con identidad propia. Me apasiona aprender, crear experiencias digitales y conectar con las personas desde el diseño, la música y la tecnología.
+Soy **Mauro Pinto**, desarrollador web frontend con formación en **Comunicación Audiovisual**. Combino creatividad, diseño y tecnología para crear experiencias digitales únicas. Me interesa la interactividad, el contenido audiovisual, la música original y los proyectos que conectan con las personas.
+
+Siempre busco crecer, aprender y colaborar con otros creadores.
 
 ---
 
 > *“El diseño no es solo lo que se ve y se siente. El diseño es cómo funciona.” – Steve Jobs*
 
 <p align="center">
-  🚀 Gracias por visitar mi perfil 🤝  
+  🚀 ¡Gracias por visitar mi perfil!
 </p>
