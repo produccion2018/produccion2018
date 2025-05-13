@@ -63,6 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drako01&layout=compact&theme=tokyonight" alt="Lenguajes más usados por Mauro Alexander Pinto en GitHub">
 </p>
 
+
 ## ✨ Sobre mí
 
 Soy **Mauro Pinto**, desarrollador web frontend con formación en **Comunicación Audiovisual**. Combino creatividad, diseño y tecnología para crear experiencias digitales únicas. Me interesa la interactividad, el contenido audiovisual, la música original y los proyectos que conectan con las personas.
