@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Mauro Alexander Pinto</h1>
+<h1 align="center">Hola 👋, soy Mauro Pinto</h1>
 <h3 align="center">💻 Desarrollador Frontend | 🎥 Comunicador Audiovisual | 🎵 Apasionado por la música y la creación digital</h3>
 
 ---
@@ -6,7 +6,7 @@
 ## 🌐 Conectá conmigo:
 
 - 🌎 Sitio Web: [www.armotusitio.com](https://www.armotusitio.com)
-- 📧 Correo: contacto@armotusitio.com
+- 📧 Correo: mauroalexanderpinto@gmail.com
 - 💬 Discord: [Unite a la comunidad](https://discord.gg/tu-enlace-aqui)
 - 🧠 GitHub: [github.com/Drako01](https://github.com/Drako01)
 
@@ -72,7 +72,7 @@
 
 ## ✨ Sobre mí
 
-Soy **Mauro Pinto**, argentino, comunicador audiovisual y **desarrollador web frontend**. Combino mis conocimientos técnicos y mi mirada artística para crear sitios atractivos, funcionales y con identidad propia. Me apasiona aprender, crear experiencias digitales y conectar con las personas desde el diseño, la música y la tecnología.
+Soy **Mauro Pinto**, colomboargentino, comunicador audiovisual y **desarrollador web frontend**. Combino mis conocimientos técnicos y mi mirada artística para crear sitios atractivos, funcionales y con identidad propia. Me apasiona aprender, crear experiencias digitales y conectar con las personas desde el diseño, la música y la tecnología.
 
 ---
 
